@@ -13,3 +13,4 @@ Një implementim i thjeshtë i blockchain-it në Python.
    ```bash
    git clone https://github.com/TY_USERNAME/blockchain-project.git
    cd blockchain-project
+3. Ekzekuto python python .\blockchain.py
